@@ -1,0 +1,12 @@
+https://github.com/Thaneshwara848/MEAN
+180623
+
+https://getbootstrap.com/docs/4.3/components/navbar/
+https://getbootstrap.com/docs/4.3/components/modal/
+https://getbootstrap.com/docs/4.3/components/spinners/
+https://getbootstrap.com/docs/4.3/components/popovers/
+https://getbootstrap.com/docs/4.3/components/tooltips/
+https://getbootstrap.com/docs/4.3/components/toasts/
+
+
+https://github.com/Thaneshwara848?tab=repositories(25-06-23)

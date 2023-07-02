@@ -1,0 +1,138 @@
+ttps://github.com/Thaneshwara848/MEAN.git
+
+ttps://lms.simplilearn.com/nps/session/64676768ffb4bf3181c33dc2/1686403800000/99815430247/zoom
+
+https://github.com/Thaneshwara848/MEAN-Stack.git
+
+https://github.com/Thaneshwara848/MEAN/tree/main(24.06.23)
+
+Quickly revise all the topics 
+	HTML 
+	CSS 
+	Bootstarcp 
+	basic javaScript 
+		
+Bootstrap 5 cdn links are included the glyphicons,paginations and other stuffs doesnt come or even when it comes it is differently form bootstrap 3 which sir had included
+
+
+javaScript 
+
+Bootsrcp 5: glyphicons 
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Thaneshwara848/SL_MeanStack.git
+git push -u origin main
+
+git init
+git add README.md
+git commit -m "first commit"
+git push 
+
+
+
+  git config --global user.email "thaneshwaramanjunatha@gmail.com"
+  git config --global user.name "Thaneshwara"
+
+
+===============================
+HTML
+                   Break (<br></br>)
+                   Paragraph (<p></p> Paragraph tag gives one more line)
+                   HR (<hr> horizontal tag gives one line)
+
+                   Closing Tags - H1-H6, Span, div, P 
+                   Non Closing Tags - HR, BR, IMG
+                   Ordered & Un-Ordered List 
+                    Table - Table. th, td , cellspacing, rowspan, colspan
+                    images :
+                    Links: 
+                    input forms 
+                    audio / vedio
+                    map : googlr map 
+                    text formating 
+                    colors
+                    local sotrgae / Session sotrgae
+                  
+HTML :
+      Hyper text markup lang
+      just only the page : no style 
+
+CSS :
+    style 
+    Cascading style sheet
+    1) it describe how html elememts are to be displayed on screen , 
+      Look and feel 
+    2) css saves a lot of work it can controle the multple page 
+    
+
+	Types of Css:
+			Inline 
+			internal / Embaded 
+			External style sheet
+
+    	Selectors : 
+    	  id 
+    	  class 
+     	 tag 
+      	multyple  tag 
+      Universal 
+
+	Background propertys 
+		bg-Image 
+		bg-repet
+		bg-attachment 
+	margin 
+		top 
+		left 
+		right 
+		bottom 
+	Padding 
+		padding top 
+			left
+			right 
+			bottom 
+	float 
+	opacity 
+	text 
+	font 
+	Box model 
+	overflow
+	
+	Animation 
+	
+
+BootStracp 
+
+CSS 
+	line by line we have to write 
+===================
+
+BootStracp 
+	we have so many ready made class 
+
+
+	Gird 
+	button
+	text 
+	bg 
+	table 
+	pagination 
+	progress bar 
+	glyphicon
+	Forms 
+	collapas
+	corosual 
+
+	nav bar 
+
+	tooltip 
+	model 
+
+				Java Script
+				
+
